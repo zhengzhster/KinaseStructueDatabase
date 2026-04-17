@@ -1,4 +1,4 @@
-UniProt,PDB,Ligand_Chain,Ligand_Index,Ligand,Nucleophile_Chain,Nucleophile_Index,Nucleophile,Kinase,Organism,Warhead_Type,Nucleophile_Location,Affinity_type,Value,Unit,Source
+UniProt,PDB,Ligand_Chain,Ligand_Index,Ligand,Nucleophile_Chain,Nucleophile_Index,Nucleophile,Kinase,Organism,Warhead_Type,Nucleophile_Location,Activity_type,Value,Unit,Source
 O14733,5Z1D,A,501,95U,A,218,CYS,MAP2K7,HUMAN,1,front,IC50,5.0,nM,BindingDB
 O14733,6IB0,A,501,H8Z,A,218,CYS,MAP2K7,HUMAN,1,front,IC50,40.0,nM,BindingDB
 O14733,6IB2,A,501,862,A,218,CYS,MAP2K7,HUMAN,1,front,IC50,10.0,nM,https://doi.org/10.1021/acs.jmedchem.9b00102
